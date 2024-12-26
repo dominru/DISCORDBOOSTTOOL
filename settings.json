@@ -1,0 +1,9 @@
+{
+    "capmonsterKey": "capmonster.cloud key here",
+    "botToken": "ur token",
+    "guildID": "server id",
+    "botAdminId": [
+        "your id here"
+    ],
+    "botWhitelistedId": []
+}
